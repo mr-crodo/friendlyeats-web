@@ -5,15 +5,16 @@
 FriendlyEats is a restaurant recommendation app built on Cloud Firestore.
 For more information about Firestore visit [the docs][firestore-docs].
 
-This project is the starting point for the [Cloud Firestore Web Codelab][codelab],
-which will show you how to build the applications step-by-step. If you'd like to
-simply run the finished result, see the [quickstart app][quickstart].
+You can run it and test it in practice
 
 <img src="docs/finished_image.png" />
 
 ## Setup
+to run use the command :
 
-Follow the [Cloud Firestore Web Codelab][codelab] to set up this sample.
+```
+firebase serve
+```
 
 ## License
 
