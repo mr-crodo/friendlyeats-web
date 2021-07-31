@@ -13,7 +13,7 @@ You can run it and test it in practice
 to run use the command :
 
 ```
-npm i
+npm install
 ```
 
 ```
